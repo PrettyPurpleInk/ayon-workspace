@@ -1,0 +1,23 @@
+{
+  "repositories": {
+    "repos": {
+      "ayon-docker": "https://github.com/Ynput/ayon-docker.git",
+      "ayon-dependencies-tool": "https://github.com/Ynput/ayon-dependencies-tool.git",
+      "ayon-python-api": "https://github.com/Ynput/ayon-python-api.git",
+      "ayon-launcher": "https://github.com/Ynput/ayon-launcher.git"
+    },
+    "addons": {
+      "ayon-core": "https://github.com/Ynput/ayon-core.git",
+      "ayon-applications": "https://github.com/Ynput/ayon-applications.git",
+      "ayon-blender": "https://github.com/PrettyPurpleInk/ayon-blender",
+      "ayon-mrv2": "https://github.com/PrettyPurpleInk/ayon-mrv2",
+      "ayon-kitsu": "https://github.com/ynput/ayon-kitsu",
+      "ayon-traypublisher": "https://github.com/ynput/ayon-traypublisher"
+    },
+    "tools": {},
+    "docker": {
+      "frontend": "https://github.com/Ynput/ayon-frontend.git",
+      "backend": "https://github.com/Ynput/ayon-backend.git"
+    }
+  }
+}
