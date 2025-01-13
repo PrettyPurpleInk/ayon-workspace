@@ -9,8 +9,8 @@
     "addons": {
       "ayon-core": "https://github.com/Ynput/ayon-core.git",
       "ayon-applications": "https://github.com/Ynput/ayon-applications.git",
-      "ayon-blender": "https://github.com/PrettyPurpleInk/ayon-blender",
-      "ayon-mrv2": "https://github.com/PrettyPurpleInk/ayon-mrv2",
+      "ayon-blender": "git@github.com:PrettyPurpleInk/ayon-blender.git",
+      "ayon-mrv2": "git@github.com:PrettyPurpleInk/ayon-mrv2.git",
       "ayon-kitsu": "https://github.com/ynput/ayon-kitsu",
       "ayon-traypublisher": "https://github.com/ynput/ayon-traypublisher"
     },
